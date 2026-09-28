@@ -23,12 +23,12 @@ with clean code, practical solutions, and continuous learning.
 
 <a href="https://github.com/surjocode">
   <img
-    src="https://img.shields.io/badge/GitHub-touhidcodes-181717?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/GitHub-surjocode-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/piel-mitra-1743322ba/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
@@ -142,9 +142,7 @@ TypeScript, and Tailwind CSS**.
 
 <br />
 
-### 📚 Book Vibe
 
-A modern book discovery and reading management application.
 
 **Tech Stack**
 
@@ -186,3 +184,60 @@ Authentication & Authorization
      AI Integration
             ↓
 Full Stack Software Engineering
+
+
+<!-- ========================================================= --> <!-- DEVELOPMENT PHILOSOPHY --> <!-- ========================================================= -->
+💡 Development Philosophy
+
+Build • Learn • Improve • Repeat
+
+I believe consistent practice, real-world projects, and learning
+from problems are the foundation of becoming a better developer.
+
+<!-- ========================================================= --> <!-- GITHUB STATISTICS --> <!-- ========================================================= -->
+📊 GitHub Statistics
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=touhidcodes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" height="170" alt="Piel Mitra GitHub Statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&layout=compact&hide_border=true&theme=transparent" height="170" alt="Piel Mitra Top Languages" />
+
+</div>
+<!-- ========================================================= --> <!-- GITHUB STREAK --> <!-- ========================================================= -->
+🔥 GitHub Streak
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=touhidcodes&theme=transparent&hide_border=true" alt="Piel Mitra GitHub Streak" />
+
+</div>
+<!-- ========================================================= --> <!-- CONTRIBUTION GRAPH --> <!-- ========================================================= -->
+📈 GitHub Contributions
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=touhidcodes&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true" width="100%" alt="Piel Mitra GitHub Contribution Graph" />
+
+</div>
+<!-- ========================================================= --> <!-- CURRENT GOALS --> <!-- ========================================================= -->
+🌱 Learning & Goals
+📚 Strengthen advanced TypeScript
+⚛️ Build scalable applications with React & Next.js
+🔧 Improve backend development skills
+🗄️ Learn database architecture and optimization
+🔐 Understand authentication and authorization
+🤖 Explore AI integration in web applications
+🏗️ Learn clean architecture and scalable software design
+🚀 Build production-ready full-stack applications
+<!-- ========================================================= --> <!-- CONNECT WITH ME --> <!-- ========================================================= -->
+🤝 Connect With Me
+<p align="left"> <a href="https://github.com/touhidcodes"> <img src="https://img.shields.io/badge/GitHub-touhidcodes-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
+<!-- ========================================================= --> <!-- FOOTER --> <!-- ========================================================= --> <div align="center">
+🚀 Build • Learn • Grow
+<br />
+
+Thanks for visiting my GitHub profile!
+
+<br />
+
+⭐ Feel free to explore my repositories and follow my development journey.
+
+</div> ```
