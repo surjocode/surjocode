@@ -168,7 +168,7 @@ TypeScript, and Tailwind CSS**.
 I'm currently focusing on strengthening my full-stack development
 skills and building production-ready applications.
 
-```text
+text
 Advanced JavaScript & TypeScript
             ↓
        React & Next.js
@@ -240,4 +240,4 @@ Thanks for visiting my GitHub profile!
 
 ⭐ Feel free to explore my repositories and follow my development journey.
 
-</div> ```
+</div> 
