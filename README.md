@@ -18,17 +18,29 @@ Building modern, responsive, and user-focused web applications with clean code, 
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Web Developer** passionate about creating modern, responsive, and user-friendly web applications.
+<div align="center">
 
-- 💻 Focused on Full Stack Web Development
-- ⚛️ Building applications with React and Next.js
-- 🧠 Exploring AI-powered web applications
-- 📘 Continuously improving JavaScript and TypeScript
-- 🚀 Interested in scalable and maintainable software
-- 🛠️ Learning through hands-on development
-- 🎯 Working toward becoming a professional Software Engineer
+### Hi, I'm Piel Mitra 👋
+**Full Stack Developer | Building for the Web, Exploring AI 🤖**
 
----
+*Turning ideas into elegant, scalable, and user-focused digital experiences.*
+
+</div>
+
+I'm a passionate **Full Stack Web Developer** who enjoys building modern web applications, solving real-world problems, and transforming ideas into functional digital products.
+
+- 🚀 **Development:** Building responsive and interactive applications with React and Next.js.
+- 💻 **Tech Stack:** Working with JavaScript, TypeScript, Tailwind CSS, Node.js, and modern web technologies.
+- 🤖 **AI & Innovation:** Exploring AI-powered features and intelligent web experiences.
+- 🧩 **Problem Solving:** Writing clean, maintainable code and continuously improving development practices.
+- 📚 **Continuous Learning:** Strengthening my skills through hands-on projects and practical experimentation.
+- 🎯 **My Goal:** To become a skilled Software Engineer and build impactful, production-ready applications.
+
+<div align="center">
+
+**Code with Purpose • Learn Every Day • Build Something Great**
+
+</div>
 
 ## 🛠️ Skills in Technologies
 
@@ -108,27 +120,35 @@ I'm focusing on strengthening my full-stack development skills and building prod
 - 🤖 AI integration in web applications
 - 🏗️ Clean architecture and scalable software design
 
-### My Learning Roadmap
+## 📚 Learning Path
 
-```text
-Advanced JavaScript & TypeScript
-              ↓
-        React & Next.js
-              ↓
-      Backend Development
-              ↓
-          REST APIs
-              ↓
-          Databases
-              ↓
- Authentication & Authorization
-              ↓
-        AI Integration
-              ↓
- Full Stack Software Engineering
-```
+My roadmap toward becoming a professional Full Stack Software Engineer.
 
----
+mermaid
+flowchart LR
+    A["1. Advanced JavaScript<br/> & TypeScript"] --> B["2. React & Next.js"]
+    B --> C["3. Backend Development"]
+    C --> D["4. REST APIs"]
+    D --> E["5. Databases"]
+    E --> F["6. Authentication<br/> & Authorization"]
+    F --> G["7. AI Integration"]
+    G --> H["8. Full Stack<br/>Software Engineering"]
+
+    style A fill:#e53935,stroke:#ff6b6b,color:#ffffff
+    style B fill:#1976d2,stroke:#64b5f6,color:#ffffff
+    style C fill:#388e3c,stroke:#81c784,color:#ffffff
+    style D fill:#7cb342,stroke:#aed581,color:#ffffff
+    style E fill:#fb8c00,stroke:#ffb74d,color:#ffffff
+    style F fill:#d81b60,stroke:#f48fb1,color:#ffffff
+    style G fill:#8e24aa,stroke:#ce93d8,color:#ffffff
+    style H fill:#00897b,stroke:#80cbc4,color:#ffffff
+
+
+<div align="center">
+
+**Learn → Build → Improve → Innovate 🚀**
+
+</div>
 
 ## 💡 Development Philosophy
 
