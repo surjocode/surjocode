@@ -30,8 +30,8 @@ with clean code, practical solutions, and continuous learning.
 
 <a href="https://www.linkedin.com/in/piel-mitra-1743322ba/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
+    src="https://portfolio-mitra-time.vercel.app/"
+    alt="portfolio"
   />
 </a>
 
