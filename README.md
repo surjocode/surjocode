@@ -123,30 +123,40 @@ I'm focusing on strengthening my full-stack development skills and building prod
 
 
 
-## 📚 LEARNING PATH
+
+## 📚 Learning Path
 
 My roadmap toward becoming a professional Full Stack Software Engineer.
 
-```mermaid id="p7m3kx"
-%%{init: {'theme':'dark','flowchart': {'nodeSpacing': 25, 'rankSpacing': 45, 'htmlLabels': true}}}%%
+```mermaid
+%%{init: {'theme':'dark','flowchart': {'nodeSpacing': 35, 'rankSpacing': 55, 'htmlLabels': true}}}%%
 flowchart TB
-    A["① Core Web Fundamentals"] --> B["② Frontend Development"]
-    B --> C["③ Backend Development"]
-    C --> D["④ Database & APIs"]
+    subgraph ROW1[" "]
+        direction LR
+        A["① Core Web Fundamentals"] --> B["② Frontend Development"]
+        B --> C["③ Backend Development"]
+        C --> D["④ Database & APIs"]
+    end
 
-    D --> E["⑤ DevOps & Deployment"]
-    E --> F["⑥ AI Integration"]
-    F --> G["⑦ Cybersecurity"]
-    G --> H["⑧ Full Stack Developer"]
+    subgraph ROW2[" "]
+        direction LR
+        E["⑤ DevOps & Deployment"] --> F["⑥ AI Integration"]
+        F --> G["⑦ Cybersecurity"]
+        G --> H["⑧ Full Stack Developer"]
+    end
 
-    style A fill:#e53935,stroke:#ff6b6b,color:#ffffff,stroke-width:2px
-    style B fill:#1976d2,stroke:#64b5f6,color:#ffffff,stroke-width:2px
-    style C fill:#388e3c,stroke:#81c784,color:#ffffff,stroke-width:2px
-    style D fill:#7cb342,stroke:#aed581,color:#ffffff,stroke-width:2px
-    style E fill:#fb8c00,stroke:#ffb74d,color:#ffffff,stroke-width:2px
-    style F fill:#d81b60,stroke:#f48fb1,color:#ffffff,stroke-width:2px
-    style G fill:#8e24aa,stroke:#ce93d8,color:#ffffff,stroke-width:2px
-    style H fill:#00897b,stroke:#80cbc4,color:#ffffff,stroke-width:2px
+    D --> E
+
+    style ROW1 fill:transparent,stroke:transparent
+    style ROW2 fill:transparent,stroke:transparent
+    style A fill:#e53935,stroke:#ff6b6b,color:#ffffff
+    style B fill:#1976d2,stroke:#64b5f6,color:#ffffff
+    style C fill:#388e3c,stroke:#81c784,color:#ffffff
+    style D fill:#7cb342,stroke:#aed581,color:#ffffff
+    style E fill:#fb8c00,stroke:#ffb74d,color:#ffffff
+    style F fill:#d81b60,stroke:#f48fb1,color:#ffffff
+    style G fill:#8e24aa,stroke:#ce93d8,color:#ffffff
+    style H fill:#00897b,stroke:#80cbc4,color:#ffffff
 ```
 
 <div align="center">
