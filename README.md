@@ -121,35 +121,38 @@ I'm focusing on strengthening my full-stack development skills and building prod
 - 🏗️ Clean architecture and scalable software design
 
 
-## 📚 Learning Path
+
+## 📚 LEARNING PATH
 
 My roadmap toward becoming a professional Full Stack Software Engineer.
 
 ```mermaid
-flowchart LR
-    A["1. Advanced JavaScript<br/> & TypeScript"] --> B["2. React & Next.js"]
-    B --> C["3. Backend Development"]
-    C --> D["4. REST APIs"]
-    D --> E["5. Databases"]
-    E --> F["6. Authentication<br/> & Authorization"]
-    F --> G["7. AI Integration"]
-    G --> H["8. Full Stack<br/>Software Engineering"]
+%%{init: {'theme':'dark','themeVariables': {'fontSize':'22px'}, 'flowchart': {'nodeSpacing': 55, 'rankSpacing': 75, 'padding': 25, 'htmlLabels': true}}}%%
+flowchart TB
+    A["① Advanced JavaScript<br/> & TypeScript"] --> B["② React & Next.js"]
+    B --> C["③ Backend Development"]
+    C --> D["④ REST APIs"]
+    D --> E["⑤ Database Architecture"]
+    E --> F["⑥ Authentication<br/> & Authorization"]
+    F --> G["⑦ AI Integration"]
+    G --> H["⑧ Full Stack<br/>Software Engineering"]
 
-    style A fill:#e53935,stroke:#ff6b6b,color:#ffffff
-    style B fill:#1976d2,stroke:#64b5f6,color:#ffffff
-    style C fill:#388e3c,stroke:#81c784,color:#ffffff
-    style D fill:#7cb342,stroke:#aed581,color:#ffffff
-    style E fill:#fb8c00,stroke:#ffb74d,color:#ffffff
-    style F fill:#d81b60,stroke:#f48fb1,color:#ffffff
-    style G fill:#8e24aa,stroke:#ce93d8,color:#ffffff
-    style H fill:#00897b,stroke:#80cbc4,color:#ffffff
+    style A fill:#e53935,stroke:#ff6b6b,color:#ffffff,stroke-width:3px
+    style B fill:#1976d2,stroke:#64b5f6,color:#ffffff,stroke-width:3px
+    style C fill:#388e3c,stroke:#81c784,color:#ffffff,stroke-width:3px
+    style D fill:#7cb342,stroke:#aed581,color:#ffffff,stroke-width:3px
+    style E fill:#fb8c00,stroke:#ffb74d,color:#ffffff,stroke-width:3px
+    style F fill:#d81b60,stroke:#f48fb1,color:#ffffff,stroke-width:3px
+    style G fill:#8e24aa,stroke:#ce93d8,color:#ffffff,stroke-width:3px
+    style H fill:#00897b,stroke:#80cbc4,color:#ffffff,stroke-width:3px
 ```
 
 <div align="center">
 
-**Learn • Build • Improve • Innovate 🚀**
+### 🚀 LEARN • BUILD • IMPROVE • INNOVATE
 
 </div>
+
 
 
 ## 💡 Development Philosophy
