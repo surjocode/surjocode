@@ -120,11 +120,12 @@ I'm focusing on strengthening my full-stack development skills and building prod
 - 🤖 AI integration in web applications
 - 🏗️ Clean architecture and scalable software design
 
+
 ## 📚 Learning Path
 
 My roadmap toward becoming a professional Full Stack Software Engineer.
 
-mermaid
+```mermaid
 flowchart LR
     A["1. Advanced JavaScript<br/> & TypeScript"] --> B["2. React & Next.js"]
     B --> C["3. Backend Development"]
@@ -142,13 +143,14 @@ flowchart LR
     style F fill:#d81b60,stroke:#f48fb1,color:#ffffff
     style G fill:#8e24aa,stroke:#ce93d8,color:#ffffff
     style H fill:#00897b,stroke:#80cbc4,color:#ffffff
-
+```
 
 <div align="center">
 
-**Learn → Build → Improve → Innovate 🚀**
+**Learn • Build • Improve • Innovate 🚀**
 
 </div>
+
 
 ## 💡 Development Philosophy
 
