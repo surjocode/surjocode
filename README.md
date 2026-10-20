@@ -1,221 +1,180 @@
-<!-- ========================================================= -->
-<!--                    PROFILE HEADER                         -->
-<!-- ========================================================= -->
+# Hi, I'm Piel Mitra 👋
 
 <div align="center">
 
-<img
-  src="./1st cover.png"
-  alt="Piel Mitra - Full Stack Developer"
-  width="100%"
-/>
-
-<br />
-
-# Hi, I'm Piel Mitra 👋
+<img src="./1st cover.png" alt="Piel Mitra - Full Stack Developer" width="100%" />
 
 ### Full Stack Developer | AI-Driven Full Stack Web Engineering
 
-Building modern, responsive, and user-focused web applications
-with clean code, practical solutions, and continuous learning.
+Building modern, responsive, and user-focused web applications with clean code, practical solutions, and continuous learning.
 
-<br />
-
-<a href="https://github.com/surjocode">
-  <img
-    src="https://img.shields.io/badge/GitHub-surjocode-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/piel-mitra-1743322ba/">
-  <img
-    src="https://portfolio-mitra-time.vercel.app/"
-    alt="portfolio"
-  />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-surjocode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surjocode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piel-mitra-1743322ba/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mitra-time.vercel.app/)
 
 </div>
 
-<br />
-
 ---
-
-<!-- ========================================================= -->
-<!--                       ABOUT ME                             -->
-<!-- ========================================================= -->
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Web Developer** passionate about creating modern,
-responsive, and user-friendly web applications.
+I'm a **Full Stack Web Developer** passionate about creating modern, responsive, and user-friendly web applications.
 
-I enjoy turning ideas into real-world projects, solving development
-problems, and continuously improving my skills through hands-on
-development.
-
-- 💻 Focused on **Full Stack Web Development**
-- ⚛️ Building applications with **React & Next.js**
-- 🧠 Exploring **AI-powered web applications**
-- 📘 Continuously improving **JavaScript & TypeScript**
+- 💻 Focused on Full Stack Web Development
+- ⚛️ Building applications with React and Next.js
+- 🧠 Exploring AI-powered web applications
+- 📘 Continuously improving JavaScript and TypeScript
 - 🚀 Interested in scalable and maintainable software
-- 🛠️ Learning through real-world projects
-- 🎯 Working toward becoming a professional **Software Engineer**
+- 🛠️ Learning through hands-on development
+- 🎯 Working toward becoming a professional Software Engineer
 
 ---
 
-<!-- ========================================================= -->
-<!--                     TECHNOLOGY STACK                       -->
-<!-- ========================================================= -->
-
-## 🛠️ Technology Stack
+## 🛠️ Skills in Technologies
 
 ### Languages
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" />
-<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" />
-<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,python" alt="HTML CSS JavaScript TypeScript GraphQL Python" />
 </p>
 
-### Frontend
+### CSS Frameworks & Libraries
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" />
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" />
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="Bootstrap" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" alt="Tailwind CSS Material UI Bootstrap" />
 </p>
 
-### Backend & Database
+### JavaScript Frameworks & Libraries
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" />
-<img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js" />
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" alt="React Next.js Redux Node.js Express" />
 </p>
 
-### Tools & Platforms
+### Database & ORM
 
-<p align="left">
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" alt="MongoDB MySQL PostgreSQL Prisma Supabase" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
-<img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" />
-<img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel" />
+### Deployment Platforms
 
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Vercel Netlify Firebase" />
+</p>
+
+### Design & Graphics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" alt="Figma Adobe Illustrator Adobe Photoshop" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" alt="Windows Ubuntu Notion Git GitHub VS Code Postman Docker" />
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                    FEATURED PROJECTS                       -->
-<!-- ========================================================= -->
+## 📊 GitHub Statistics
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🏋️ FitLog
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=surjocode&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 
-A modern workout management application built with **Next.js,
-TypeScript, and Tailwind CSS**.
-
-**Tech Stack**
-
-`Next.js` `TypeScript` `Tailwind CSS` `DaisyUI` `Framer Motion`
-
-**Key Features**
-
-- 🏋️ Workout library
-- 📋 Personal workout planning
-- 🔖 Save workouts for later
-- ✅ Completed workout tracking
-- 💾 Local storage persistence
-- 📱 Responsive design
-- ⚡ Modern interactive UI
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surjocode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages by Repository Size" />
 
 <br />
 
+<img width="70%" src="https://streak-stats.demolab.com?user=surjocode&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics" />
 
+<br />
 
-**Tech Stack**
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=surjocode&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" />
 
-`Next.js` `TypeScript` `Tailwind CSS` `DaisyUI` `Recharts`
-
-**Key Features**
-
-- 📚 Book discovery
-- ❤️ Wishlist management
-- 📖 Reading list
-- 🔎 Sorting and filtering
-- 📊 Reading statistics
-- 📱 Responsive interface
+</div>
 
 ---
-
-<!-- ========================================================= -->
-<!--                     CURRENT FOCUS                          -->
-<!-- ========================================================= -->
 
 ## 🎯 Current Focus
 
-I'm currently focusing on strengthening my full-stack development
-skills and building production-ready applications.
+I'm focusing on strengthening my full-stack development skills and building production-ready applications.
 
-text
+- ⚡ Advanced JavaScript and TypeScript
+- ⚛️ React and Next.js
+- 🔧 Backend development and REST APIs
+- 🗄️ Database architecture and optimization
+- 🔐 Authentication and authorization
+- 🤖 AI integration in web applications
+- 🏗️ Clean architecture and scalable software design
+
+### My Learning Roadmap
+
+```text
 Advanced JavaScript & TypeScript
-            ↓
-       React & Next.js
-            ↓
-    Backend Development
-            ↓
-      REST APIs
-            ↓
-     Databases
-            ↓
-Authentication & Authorization
-            ↓
-     AI Integration
-            ↓
-Full Stack Software Engineering
+              ↓
+        React & Next.js
+              ↓
+      Backend Development
+              ↓
+          REST APIs
+              ↓
+          Databases
+              ↓
+ Authentication & Authorization
+              ↓
+        AI Integration
+              ↓
+ Full Stack Software Engineering
+```
 
+---
 
-<!-- ========================================================= --> <!-- DEVELOPMENT PHILOSOPHY --> <!-- ========================================================= -->
-💡 Development Philosophy
+## 💡 Development Philosophy
 
-Build • Learn • Improve • Repeat
+<div align="center">
 
-I believe consistent practice, real-world projects, and learning
-from problems are the foundation of becoming a better developer.
+### Build • Learn • Improve • Repeat
 
+I believe consistent practice, real-world problem-solving, and continuous learning are the foundations of becoming a better developer.
 
-<!-- ========================================================= --> <!-- CURRENT GOALS --> <!-- ========================================================= -->
-🌱 Learning & Goals
-📚 Strengthen advanced TypeScript
-⚛️ Build scalable applications with React & Next.js
-🔧 Improve backend development skills
-🗄️ Learn database architecture and optimization
-🔐 Understand authentication and authorization
-🤖 Explore AI integration in web applications
-🏗️ Learn clean architecture and scalable software design
-🚀 Build production-ready full-stack applications
-<!-- ========================================================= --> <!-- CONNECT WITH ME --> <!-- ========================================================= -->
-🤝 Connect With Me
-<p align="left"> <a href="https://github.com/surjocode"> <img src="https://img.shields.io/badge/GitHub-surjocode-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="//www.linkedin.com/in/piel-mitra-1743322ba/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
-<!-- ========================================================= --> <!-- FOOTER --> <!-- ========================================================= --> <div align="center">
-🚀 Build • Learn • Grow
-<br />
+</div>
+
+---
+
+## 🌱 Learning & Goals
+
+- 📚 Strengthen advanced TypeScript skills
+- ⚛️ Build scalable applications with React and Next.js
+- 🔧 Improve backend development skills
+- 🗄️ Learn database architecture and optimization
+- 🔐 Understand authentication and authorization
+- 🤖 Explore AI integration in web applications
+- 🏗️ Learn clean architecture and scalable software design
+- 🚀 Build production-ready full-stack applications
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-surjocode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surjocode)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piel-mitra-1743322ba/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mitra-time.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+🚀 **Build • Learn • Grow**
 
 Thanks for visiting my GitHub profile!
 
-<br />
-
 ⭐ Feel free to explore my repositories and follow my development journey.
 
-</div> 
+</div>
